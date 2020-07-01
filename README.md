@@ -1,2 +1,2 @@
 # hello-git
-1st git hub repository
+1st git hub repository of github
